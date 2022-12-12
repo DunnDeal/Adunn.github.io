@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Adunn.github.io/static/css/main.5d942ab1.chunk.css",
+    "main.js": "/Adunn.github.io/static/js/main.3edbc99d.chunk.js",
+    "main.js.map": "/Adunn.github.io/static/js/main.3edbc99d.chunk.js.map",
+    "runtime-main.js": "/Adunn.github.io/static/js/runtime-main.c5d5f248.js",
+    "runtime-main.js.map": "/Adunn.github.io/static/js/runtime-main.c5d5f248.js.map",
+    "static/css/2.14351861.chunk.css": "/Adunn.github.io/static/css/2.14351861.chunk.css",
+    "static/js/2.bcda0dc9.chunk.js": "/Adunn.github.io/static/js/2.bcda0dc9.chunk.js",
+    "static/js/2.bcda0dc9.chunk.js.map": "/Adunn.github.io/static/js/2.bcda0dc9.chunk.js.map",
+    "index.html": "/Adunn.github.io/index.html",
+    "precache-manifest.a59c35bcf06abd9b2a9ae9fb405859d1.js": "/Adunn.github.io/precache-manifest.a59c35bcf06abd9b2a9ae9fb405859d1.js",
+    "service-worker.js": "/Adunn.github.io/service-worker.js",
+    "static/css/2.14351861.chunk.css.map": "/Adunn.github.io/static/css/2.14351861.chunk.css.map",
+    "static/css/main.5d942ab1.chunk.css.map": "/Adunn.github.io/static/css/main.5d942ab1.chunk.css.map",
+    "static/js/2.bcda0dc9.chunk.js.LICENSE": "/Adunn.github.io/static/js/2.bcda0dc9.chunk.js.LICENSE",
+    "static/media/Hello.jpg": "/Adunn.github.io/static/media/Hello.ce9b13e5.jpg",
+    "static/media/Pencil.jpg": "/Adunn.github.io/static/media/Pencil.38828042.jpg",
+    "static/media/laptop1.jpg": "/Adunn.github.io/static/media/laptop1.87561258.jpg",
+    "static/media/sam.jpg": "/Adunn.github.io/static/media/sam.dd77e9e7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5d5f248.js",
+    "static/css/2.14351861.chunk.css",
+    "static/js/2.bcda0dc9.chunk.js",
+    "static/css/main.5d942ab1.chunk.css",
+    "static/js/main.3edbc99d.chunk.js"
+  ]
+}
